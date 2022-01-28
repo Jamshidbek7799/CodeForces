@@ -9,5 +9,6 @@ public class Problem_112A {
         int sum=sc.next().compareToIgnoreCase(sc.next());
         System.out.print(sum<0?-1:sum>0?1:0);
 
+
     }
 }

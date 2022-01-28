@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a302d135-7939-43e7-b632-9be4cc4fb7e6" name="Changes" comment="add">
+    <list default="true" id="a302d135-7939-43e7-b632-9be4cc4fb7e6" name="Changes" comment="add 791">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_59A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_617A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_791A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_791A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_791A">
+  <component name="RunManager" selected="Application.Problem_59A">
     <configuration name="Problem_236A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Problem_236A" />
       <module name="CodeForces" />
@@ -120,34 +121,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_266A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_266A" />
-      <module name="CodeForces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_281A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_281A" />
-      <module name="CodeForces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Problem_546A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Problem_546A" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_59A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_59A" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_617A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_617A" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Problem_281A" />
-      <item itemvalue="Application.Problem_266A" />
       <item itemvalue="Application.Problem_236A" />
       <item itemvalue="Application.Problem_546A" />
       <item itemvalue="Application.Problem_791A" />
+      <item itemvalue="Application.Problem_617A" />
+      <item itemvalue="Application.Problem_59A" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_59A" />
+        <item itemvalue="Application.Problem_617A" />
         <item itemvalue="Application.Problem_791A" />
         <item itemvalue="Application.Problem_546A" />
         <item itemvalue="Application.Problem_236A" />
-        <item itemvalue="Application.Problem_266A" />
-        <item itemvalue="Application.Problem_281A" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,7 @@
       <updated>1643016784303</updated>
       <workItem from="1643016785881" duration="7651000" />
       <workItem from="1643087720096" duration="1342000" />
-      <workItem from="1643353785172" duration="7327000" />
+      <workItem from="1643353785172" duration="9461000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1643360826235</created>
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643361409662</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add 791">
+      <created>1643362630836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643362630836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +256,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add 791" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 791" />
   </component>
 </project>

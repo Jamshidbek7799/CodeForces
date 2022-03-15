@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ff907e-6b6b-4ff6-b8cc-fcdf5eba6dab" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_266B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_977A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sh4422_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sh4422_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sh4422_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sh4422_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sh4422_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sh4422_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="7f80a425-58ad-427f-920c-dbb8f146d013" name="Changes" comment="add new">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_122A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_133A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_136A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_160A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_271A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_344A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_467A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_677A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_734A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Sh4422_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces/com/company/Sh4422_6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,24 +49,147 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Problem_344A">
+    <configuration name="Problem_136A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_136A" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_160A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_160A" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_344A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_344A" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_467A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_467A" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_677A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_677A" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_344A" />
+        <item itemvalue="Application.Problem_136A" />
+        <item itemvalue="Application.Problem_467A" />
+        <item itemvalue="Application.Problem_677A" />
+        <item itemvalue="Application.Problem_160A" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="39ff907e-6b6b-4ff6-b8cc-fcdf5eba6dab" name="Changes" comment="" />
+      <changelist id="7f80a425-58ad-427f-920c-dbb8f146d013" name="Changes" comment="add" />
       <created>1644418754857</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644418754857</updated>
       <workItem from="1644418756170" duration="635000" />
+      <workItem from="1647062587664" duration="611000" />
+      <workItem from="1647150194445" duration="2475000" />
+      <workItem from="1647267539783" duration="13060000" />
+      <workItem from="1647320383889" duration="11648000" />
     </task>
+    <task id="LOCAL-00001" summary="add new">
+      <created>1647268530673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647268530674</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new">
+      <created>1647278201295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647278201295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add new">
+      <created>1647278278677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647278278677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add new" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new" />
   </component>
 </project>

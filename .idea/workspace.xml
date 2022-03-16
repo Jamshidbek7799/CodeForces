@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f80a425-58ad-427f-920c-dbb8f146d013" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_1030A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_318A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_200B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_228A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_486A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_61A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_705A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +52,9 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_318A">
-    <configuration name="Problem_1030A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_1030A" />
+  <component name="RunManager" selected="Application.Problem_228A">
+    <configuration name="Problem_200B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_200B" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_136A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_136A" />
+    <configuration name="Problem_228A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_228A" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_318A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_318A" />
+    <configuration name="Problem_486A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_486A" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_344A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_344A" />
+    <configuration name="Problem_61A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_61A" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_467A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_467A" />
+    <configuration name="Problem_705A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_705A" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_318A" />
-        <item itemvalue="Application.Problem_1030A" />
-        <item itemvalue="Application.Problem_344A" />
-        <item itemvalue="Application.Problem_136A" />
-        <item itemvalue="Application.Problem_467A" />
+        <item itemvalue="Application.Problem_228A" />
+        <item itemvalue="Application.Problem_705A" />
+        <item itemvalue="Application.Problem_200B" />
+        <item itemvalue="Application.Problem_61A" />
+        <item itemvalue="Application.Problem_486A" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +140,8 @@
       <workItem from="1647062587664" duration="611000" />
       <workItem from="1647150194445" duration="2475000" />
       <workItem from="1647267539783" duration="13060000" />
-      <workItem from="1647320383889" duration="14934000" />
+      <workItem from="1647320383889" duration="15191000" />
+      <workItem from="1647457423352" duration="5910000" />
     </task>
     <task id="LOCAL-00001" summary="add new">
       <created>1647268530673</created>
@@ -167,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647333398438</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1647343192970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647343192970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,5 +199,10 @@
     <MESSAGE value="add new" />
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodeForces$Problem_228A.ic" NAME="Problem_228A Coverage Results" MODIFIED="1647463626237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
   </component>
 </project>

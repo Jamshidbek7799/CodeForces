@@ -6,13 +6,13 @@ public class Sh4422_5 {
 //            Masalan: “Hammaga salom.”
 //    Natija: 2
     public static void main(String[] args) {
-       String s=" Hammaga salom ";
+       String s="Hammaga salom";
 
        char m[]=s.toCharArray();
        int cnt=0;
         for (int i = 0; i <m.length; i++) {
             if (m[i]==' ')
-                cnt++;
+                cnt+=2;
         }
         System.out.println(cnt);
     }

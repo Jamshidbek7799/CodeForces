@@ -1,12 +1,14 @@
 package com.company;
 
 
-import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n=sc.nextInt();
-        int d=sc.next().replaceAll("A","").length();
-        System.out.println(n-d>d?"Anton":n-d<d?"Danik":"Friendship");
+        Solution solution=new Solution();
+        int[] m=solution.twoSum(new int[]{2, 7, 11, 15},9);
+        for (int i = 0; i <m.length ; i++) {
+            System.out.println(m[i]);
+        }
+
     }
 }
+

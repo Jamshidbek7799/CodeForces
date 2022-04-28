@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f80a425-58ad-427f-920c-dbb8f146d013" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_A_141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem_A_785.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Problem_112A.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Problem_158A.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Problem_231A.class" beforeDir="false" />
@@ -24,55 +28,22 @@
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Problem_71A.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Problem_791A.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Problem_977A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Sh4422_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces/com/company/Sh4422_5.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeForces/com/company/Sh4422_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces/com/company/Sh4422_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_1030A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_1030.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_110A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_112A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_116A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_116.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_118A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_122A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_133A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_133.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_136A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_158A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_158.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_160A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_200B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_B_200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_228A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_228.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_231A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_231.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_236A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_263A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_266A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_266.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_266B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_B_266.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_271A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_271.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_281A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_281.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_282A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_282.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_318A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_318.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_339A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_339.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_344A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_41A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_467A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_467.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_486A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_486.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_4A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_50A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_546A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_546.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_58A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_59A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_617A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_617.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_61A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_677A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_677.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_69A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_705A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_705.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_71A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_734A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_734.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_791A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_791.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_96A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem_977A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem_A_977.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Sh4422_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Sh4422_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Sh4422_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Sh4422_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,13 +76,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sh4422_6">
-    <configuration name="Problem_200B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_200B" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_228A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_228A" />
+    <configuration name="Problem_A_141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_A_141" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_705A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem_705A" />
+    <configuration name="Problem_A_785" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem_A_785" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Problem_A_141" />
+        <item itemvalue="Application.Problem_A_785" />
         <item itemvalue="Application.Sh4422_6" />
         <item itemvalue="Application.Sh4422_5" />
-        <item itemvalue="Application.Problem_228A" />
-        <item itemvalue="Application.Problem_705A" />
-        <item itemvalue="Application.Problem_200B" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +174,20 @@
       <workItem from="1647320383889" duration="15191000" />
       <workItem from="1647457423352" duration="5910000" />
       <workItem from="1647463823719" duration="245000" />
-      <workItem from="1647496062175" duration="5199000" />
+      <workItem from="1647496062175" duration="5306000" />
+      <workItem from="1647595193150" duration="10901000" />
+      <workItem from="1647610234493" duration="34000" />
+      <workItem from="1647612446245" duration="1220000" />
+      <workItem from="1647618362206" duration="631000" />
+      <workItem from="1647665764611" duration="645000" />
+      <workItem from="1647674763278" duration="51000" />
+      <workItem from="1647676011573" duration="854000" />
+      <workItem from="1647798633142" duration="7000" />
+      <workItem from="1648293839440" duration="8000" />
+      <workItem from="1649227743234" duration="2820000" />
+      <workItem from="1649231158009" duration="3440000" />
+      <workItem from="1650520183174" duration="146000" />
+      <workItem from="1650521958778" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="add new">
       <created>1647268530673</created>
@@ -244,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647463840500</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add">
+      <created>1647501402465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647501402465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +259,16 @@
     <MESSAGE value="add new" />
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeForces$Problem_228A.ic" NAME="Problem_228A Coverage Results" MODIFIED="1647463626237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
